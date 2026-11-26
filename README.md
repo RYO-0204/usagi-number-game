@@ -1,2 +1,2 @@
 # usagi-number-game
-4-2-2assigment
+4-2-2assignment
